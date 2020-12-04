@@ -1,1 +1,3 @@
-Fire up the Jupyter Notebook for comprehensive instructions and get going, fellas!
+# Pose-Graph 2D SLAM
+
+Pose Graph Optimisation for 2D-SLAM using non-linear least squares. 
